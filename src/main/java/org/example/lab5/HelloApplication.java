@@ -90,7 +90,7 @@ public class HelloApplication extends Application {
 
 
 
-        // check box
+        // check boxw
 
         HBox hbox = new HBox();
         CheckBox checkBox = new CheckBox("Is this the first time filling out this census form(check if yes)");
